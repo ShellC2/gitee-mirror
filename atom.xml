@@ -6,7 +6,7 @@
   <link href="https://chujiu-rq.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://chujiu-rq.gitee.io/"/>
-  <updated>2023-04-04T03:33:06.502Z</updated>
+  <updated>2023-04-04T12:39:10.285Z</updated>
   <id>https://chujiu-rq.gitee.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我有所思，说于静处</title>
+    <link href="https://chujiu-rq.gitee.io/2023/04/04/post/"/>
+    <id>https://chujiu-rq.gitee.io/2023/04/04/post/</id>
+    <published>2023-04-04T11:11:07.000Z</published>
+    <updated>2023-04-04T12:39:10.285Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这是最好的时代，这是最坏的时代；这是智慧的时代，这是愚蠢的时代。——狄更斯</blockquote><p>然而，我要说，这就是最好的时代。</p><p>chatgpt 已经出圈有一阵了，但至今没用过，以前用过一个 chatmind AI，不知它的来历，用了一两天，网站就打不开了。</p><span id="more"></span><p>今天花了不短的时间和 cursor 聊天，别的领域还没开始探索，只是让它试着编几个简单的 python 程序。你说出你的要求，然后它给出代码，我让它编一个九九乘法表，它最初给出的代码虽然也是对的，但是输出的内容形式太占空间了，分成九个阵列输出，不过不要紧，我继续说出我的要求，一步一步，终于实现了我想要的结果。它不但给出了结果，还会对它的算法做出说明，这东西对程序员来说真的是大大解放了生产力，我完全是一个程序小白，都能做到这步。</p><p>代码在此：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">n = <span class="number">9</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, n+<span class="number">1</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">f&quot;<span class="subst">&#123;j&#125;</span> x <span class="subst">&#123;i&#125;</span> = <span class="subst">&#123;i*j&#125;</span>&quot;</span>, end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>()</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>输出结果如下：</p><p><img src="/images/multiplication-table.png"></p><p>国内的类 chatgpt AI模型，陆陆续续也有消息放出，百度有文心一言，腾讯有混元助手，它们真正面世的日子也不远了，就看能训练到哪一步。</p><p>chatgpt 的优点我们已经知道了，但是它的负面作用在哪里我们暂时还看不出来，有人说，它是信息的有损压缩，有人说，它更容易造成信息茧房，有人说，它一方面解放生产力，同时另一方面又会让很多人失业，有人说，它更容易让人空虚，所有的这些可能都有道理，但它究竟有多大的威力，影响几何，它是一种新技术还是一次革命，答案只能留待以后揭晓。先干了再说，在发展中解决问题。</p><p> 你遇到的问题前人都已经历，如何从前人那找到解决方法，这便是搜索的意义，search before you ask。理论知识再丰富，上手后照样会碰到各种问题，如果你不能解决问题，那么你便成为问题。纸上得来终觉浅，绝知此事要躬行，这便是实践的意义。</p><p>活到老，学到老，读书也许痛苦，学习其实是一件挺快乐的事，学习的动力更多来自于兴趣，正因为此，在这个过程中你碰到问题了，你自然而然会想尽办法去解决它。难怪夫子说，废寝忘食，乐以忘忧，不知老之将至。</p>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;这是最好的时代，这是最坏的时代；这是智慧的时代，这是愚蠢的时代。——狄更斯&lt;/blockquote&gt;
+
+&lt;p&gt;然而，我要说，这就是最好的时代。&lt;/p&gt;
+&lt;p&gt;chatgpt 已经出圈有一阵了，但至今没用过，以前用过一个 chatmind AI，不知它的来历，用了一两天，网站就打不开了。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="cursor" scheme="https://chujiu-rq.gitee.io/tags/cursor/"/>
+    
+    <category term="python" scheme="https://chujiu-rq.gitee.io/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>My first post</title>
