@@ -6,7 +6,7 @@
   <link href="https://chujiu-rq.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://chujiu-rq.gitee.io/"/>
-  <updated>2023-04-04T12:39:10.285Z</updated>
+  <updated>2023-04-06T12:50:25.358Z</updated>
   <id>https://chujiu-rq.gitee.io/</id>
   
   <author>
@@ -17,9 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>via，一款简洁而强大的浏览器</title>
+    <link href="https://chujiu-rq.gitee.io/2023/04/06/via-browser/"/>
+    <id>https://chujiu-rq.gitee.io/2023/04/06/via-browser/</id>
+    <published>2023-04-06T10:42:10.000Z</published>
+    <updated>2023-04-06T12:50:25.358Z</updated>
+    
+    <content type="html"><![CDATA[<p> via browser<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>我是你的自来水。</p><h4 id="为什么说它简洁？"><a href="#为什么说它简洁？" class="headerlink" title="为什么说它简洁？"></a>为什么说它简洁？</h4><ol><li>安装包只有不到 2M 大小，与那些动辄 100M 左右大小的 浏览器 APP 相比，它显得如此另类，以至于你会怀疑它真的能用吗？</li><li>界面干净整洁，只有一个搜索框和一个 logo  ,没有广告，没有新闻，没有其它，如果你想，甚至搜索框和 logo 都可以隐藏起来，一种极致纯粹的简单。</li></ol><h4 id="为什么说它强大？"><a href="#为什么说它强大？" class="headerlink" title="为什么说它强大？"></a>为什么说它强大？</h4><ol><li><p>自带广告过滤器 AdFilters，屏蔽规则多达5万条以上。</p></li><li><p>支持手动切换多种搜索引擎，google ，baidu ，bing ，sogou ，头条，神马，duckduckgo ，应有尽有。</p></li><li><p>高度定制化。logo ，搜索框，背景，自定义 CSS ，这些都可以私人定制，你可以充分魔改。</p><span id="more"></span><ul><li><p>logo 可以隐藏，可以把它设定成你想要的图片，可以是文字，也可以是一段 HTML 代码，我自己就把它置换成了 HTML 代码：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt; a href=&quot;chujiu-rq.git.io &quot;&gt;</span><br><span class="line">    <span class="tag">&lt;<span class="name">h2</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">u</span>&gt;</span></span><br><span class="line">    search engine</span><br><span class="line">     <span class="tag">&lt;/<span class="name">u</span>&gt;</span></span><br><span class="line">     <span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line">&lt;/ a&gt;</span><br></pre></td></tr></table></figure><p>链接指向的是本博客地址，这样以后我想进入自己博客的时候只要点击一下我的浏览器自定义 logo 就行了，so easy. 当然，链接地址由你做主，你想指向哪就指向哪。</p><p><img src="/images/via-1.jpg"></p></li><li><p>搜索框可以是矩形，也可以是一条横线，你也可以设置透明度，这将在你更换背景时派上用场，比如你用一张图片做背景，如果你不想让图片的某一部分被搜索框遮挡，你就可以把它的透明度提高。搜索框的描边可以变换粗细，也同样支持设置透明度，搜索框设定成矩形时，如果你觉得矩形有点单调，可以将矩形导圆角。</p></li><li><p>背景可以切换成不同的纯色，当然，也支持用任意一张图做背景。</p></li><li><p>除了这些，你还可以自己添加脚本，添加广告屏蔽规则，浏览器本身还有资源嗅探功能。总之，别的浏览器有的，它也有，别的浏览器不给你的，它给你。</p></li></ul></li></ol><h4 id="你安全吗？"><a href="#你安全吗？" class="headerlink" title="你安全吗？"></a>你安全吗？</h4><p>除了简洁和强大，它还非常注重用户的隐私。它所需要的权限非常非常少。</p><blockquote><p>太上，不知有之。</p></blockquote><p>是的，你在使用它，但它却想让你忽略它，事了拂衣去，深藏功与名。</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">github 的开源项目，在这找到它--&gt;<a href="https://github.com/tuyafeng/Via#via-browser---geeks-best-choice">Via Browser - Geek's Best Choice</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt; via browser&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;我是你的自来水。&lt;/p&gt;
+&lt;h4 id=&quot;为什么说它简洁？&quot;&gt;&lt;a href=&quot;#为什么说它简洁？&quot; class=&quot;headerlink&quot; title=&quot;为什么说它简洁？&quot;&gt;&lt;/a&gt;为什么说它简洁？&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;安装包只有不到 2M 大小，与那些动辄 100M 左右大小的 浏览器 APP 相比，它显得如此另类，以至于你会怀疑它真的能用吗？&lt;/li&gt;
+&lt;li&gt;界面干净整洁，只有一个搜索框和一个 logo  ,没有广告，没有新闻，没有其它，如果你想，甚至搜索框和 logo 都可以隐藏起来，一种极致纯粹的简单。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;为什么说它强大？&quot;&gt;&lt;a href=&quot;#为什么说它强大？&quot; class=&quot;headerlink&quot; title=&quot;为什么说它强大？&quot;&gt;&lt;/a&gt;为什么说它强大？&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;自带广告过滤器 AdFilters，屏蔽规则多达5万条以上。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;支持手动切换多种搜索引擎，google ，baidu ，bing ，sogou ，头条，神马，duckduckgo ，应有尽有。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;高度定制化。logo ，搜索框，背景，自定义 CSS ，这些都可以私人定制，你可以充分魔改。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="browser" scheme="https://chujiu-rq.gitee.io/tags/browser/"/>
+    
+    <category term="via" scheme="https://chujiu-rq.gitee.io/tags/via/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我有所思，说于静处</title>
-    <link href="https://chujiu-rq.gitee.io/2023/04/04/post/"/>
-    <id>https://chujiu-rq.gitee.io/2023/04/04/post/</id>
+    <link href="https://chujiu-rq.gitee.io/2023/04/04/more%20or%20less/"/>
+    <id>https://chujiu-rq.gitee.io/2023/04/04/more%20or%20less/</id>
     <published>2023-04-04T11:11:07.000Z</published>
     <updated>2023-04-04T12:39:10.285Z</updated>
     
